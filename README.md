@@ -1,5 +1,5 @@
 # URL EVCHARGING
 
-[Base URL](https://api-evcharging.vercel.app)
+[https://api-evcharging.vercel.app](https://api-evcharging.vercel.app)
 
-[Charging Station Endpoint](https://api-evcharging.vercel.app/chargingstation)
+[https://api-evcharging.vercel.app](https://api-evcharging.vercel.app/chargingstation)
